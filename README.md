@@ -128,10 +128,10 @@ Compile the Java source files using your IDE (like IntelliJ or Eclipse) or comma
    - Place the WAR file or directory in the `webapps/` folder of Apache Tomcat.
 
 **3. Start MySQL Database**  
-   Ensure MySQL server is running and the database (`webchatdb`) and tables are properly set up.
+   Ensure MySQL server is running and the database (`chat`) and tables are properly set up.
 
 **4. Access the Application**  
-   Open a web browser and navigate to:  http://localhost:8080/webchat
+   Open a web browser and navigate to:  http://localhost:8080/webChatApp-main
 
 **5. Test the Chat Functionality**  
 - Enter your name and message in the form.
