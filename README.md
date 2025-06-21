@@ -3,6 +3,26 @@
 ## 📝 Overview
 This is a simple web-based chat application developed using Core Java technologies including JSP, Servlets, JDBC, and MySQL as the database. The application allows users to register, login, and exchange messages in real-time through a user-friendly interface.
 
+## 📸 Screenshots
+
+<div style="display: flex;flex-direction: column; grid-gap: 10px;">
+    <div style="display: flex; grid-gap: 10px;">
+        <img src="src/main/webapp/output/1.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="src/main/webapp/output/2.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+    </div>
+    <div style="display: flex; grid-gap: 10px;">
+        <img src="src/main/webapp/output/3.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="src/main/webapp/output/4.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+    </div>
+    <div style="display: flex; grid-gap: 10px;">
+        <img src="src/main/webapp/output/5.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+    </div>
+</div>
+<br>
+
+## 🎥 Demo Video
+[<img src="src/main/webapp/output/1.png" width="320" height="180" />](https://github.com/vishal-1809/java-chat-application/tree/main/src/main/webapp/output/preview.mp4)
+
 ## ✨ Features
 - User registration and authentication
 - Sending and receiving messages between users
