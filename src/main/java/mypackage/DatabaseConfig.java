@@ -12,7 +12,7 @@ public class DatabaseConfig {
 	public static String driverPath = "com.mysql.cj.jdbc.Driver";
 	public static String host = "localhost";
 	public static String username = "root";
-	public static String password = "Striker@47";
+	public static String password = "";
 	public static String dbname = "chat";
 	public static int portNo = 3306;
 	public String url = "jdbc:mysql://" + host + ":" + portNo + "/" + dbname;
